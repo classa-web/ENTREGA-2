@@ -1,0 +1,19 @@
+[
+    {
+        "nombre": "Lina Bo Bardi",
+        "obra": "SESC Pompéia",
+        "descripcion": "Arquitecta ítalo-brasileña cuya obra explora la relación entre arquitectura, cultura y vida colectiva."
+    },
+
+    {
+        "nombre": "Oscar Niemeyer",
+        "obra": "Catedral de Brasilia",
+        "descripcion": "Arquitecto brasileño reconocido por el uso expresivo del hormigón armado y las formas curvas."
+    },
+
+    {
+        "nombre": "Paulo Mendes da Rocha",
+        "obra": "Museu Brasileiro da Escultura",
+        "descripcion": "Arquitecto brasileño vinculado a la Escuela Paulista, caracterizada por el protagonismo de la estructura y el hormigón."
+    }
+]
