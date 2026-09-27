@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 20px;
+}
+
+
+body {
+    background-color: #f2eee8;
+    color: black;
+    text-align: center;
+}
+
+
+header {
+    width: 90%;
+    margin: auto;
+    padding: 3em;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+
+header p {
+    font-size: 1rem;
+    margin-bottom: 1.5em;
+}
+
+
+button {
+    font-size: 0.8rem;
+    font-weight: bold;
+    font-style: italic;
+
+    background-color: white;
+
+    padding: 0.8em;
+    margin: 0.5em;
+
+    border: 1px solid black;
+    border-radius: 10px;
+
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+
+section {
+    width: 100%;
+    min-height: 300px;
+}
+
+
+section div {
+    width: 30%;
+    padding: 1.5em;
+    margin: 1%;
+
+    background-color: white;
+
+    border: 1px solid black;
+    border-radius: 5px;
+
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+
+    display: inline-block;
+}
+
+
+section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5em;
+}
+
+
+section p {
+    font-size: 0.8rem;
+    font-weight: normal;
+    margin-bottom: 1em;
+}
+
+
+footer {
+    height: 100px;
+    padding: 2em;
+    font-size: 0.7rem;
+}
+
+
+.dark {
+    background-color: #222222;
+    color: white;
+}
