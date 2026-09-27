@@ -69,6 +69,7 @@ section {
 
 section div {
     width: 30%;
+    height: 220px;
     padding: 1.5em;
     margin: 1%;
 
@@ -99,7 +100,6 @@ section p {
 
 
 footer {
-    height: 100px;
     padding: 2em;
     font-size: 0.7rem;
 }
