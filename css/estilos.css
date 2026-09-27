@@ -11,8 +11,8 @@ html {
 
 
 body {
-    background-color: #f2eee8;
-    color: black;
+    background-color: #f5f1e6;
+    color: #163d2a;
     text-align: center;
 }
 
@@ -28,6 +28,7 @@ h1 {
     font-size: 2.5rem;
     font-weight: bold;
     margin-bottom: 0.5em;
+    color: #006b3c;
 }
 
 
@@ -42,12 +43,13 @@ button {
     font-weight: bold;
     font-style: italic;
 
-    background-color: white;
+    background-color: #ffdf00;
+    color: #002776;
 
     padding: 0.8em;
     margin: 0.5em;
 
-    border: 1px solid black;
+    border: 1px solid #006b3c;
     border-radius: 10px;
 
     box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
@@ -71,9 +73,9 @@ section div {
     margin: 1%;
 
     background-color: white;
-    color: black;
+    color: #163d2a;
 
-    border: 1px solid black;
+    border: 1px solid #006b3c;
     border-radius: 5px;
 
     box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
@@ -85,6 +87,7 @@ section div {
 section h2 {
     font-size: 1.5rem;
     margin-bottom: 0.5em;
+    color: #006b3c;
 }
 
 
@@ -103,6 +106,6 @@ footer {
 
 
 .dark {
-    background-color: #222222;
+    background-color: #002776;
     color: white;
 }
