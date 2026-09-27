@@ -69,7 +69,6 @@ section {
 
 section div {
     width: 30%;
-
     padding: 1.5em;
     margin: 1%;
 
@@ -92,12 +91,6 @@ section h2 {
 }
 
 
-section h3 {
-    font-size: 1rem;
-    margin-bottom: 0.3em;
-}
-
-
 section p {
     font-size: 0.8rem;
     font-weight: normal;
@@ -107,7 +100,6 @@ section p {
 
 footer {
     height: 100px;
-    margin-top: 4em;
     padding: 2em;
     font-size: 0.7rem;
 }
