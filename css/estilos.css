@@ -6,7 +6,7 @@
 
 
 html {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 
@@ -18,26 +18,17 @@ body {
 
 
 header {
-    width: 90%;
-    margin: auto;
+    background-color: #006b3c;
+    color: white;
     padding: 3em;
+    text-align: center;
 }
 
 
 h1 {
-    width: 70%;
-
-    background-color: #006b3c;
-    color: white;
-
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: bold;
-
-    padding: 0.5em;
-    margin: auto;
     margin-bottom: 0.5em;
-
-    border-radius: 5px;
 }
 
 
@@ -68,6 +59,7 @@ button {
 main {
     width: 90%;
     margin: auto;
+    padding: 2em;
 }
 
 
@@ -78,7 +70,8 @@ section {
 
 section div {
     width: 30%;
-    padding: 1.5em;
+
+    padding: 1em;
     margin: 1%;
 
     background-color: white;
@@ -100,10 +93,15 @@ section h2 {
 }
 
 
+section h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5em;
+}
+
+
 section p {
     font-size: 0.8rem;
     font-weight: normal;
-    margin-bottom: 1em;
 }
 
 
@@ -117,6 +115,7 @@ footer {
     padding: 2em;
 
     font-size: 0.7rem;
+    font-style: italic;
     text-align: center;
 }
 
