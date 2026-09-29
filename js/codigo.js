@@ -20,7 +20,7 @@ const cargarArquitectos = () => {
 
         misTarjetas.innerHTML = "";
 
-        for(arquitecto of datos) {
+        for(let arquitecto of datos) {
 
             misTarjetas.innerHTML +=
             "<div><h2>" +
